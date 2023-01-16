@@ -1,0 +1,44 @@
+.contenedor-calculadora{
+    background-color: rgb(22, 19, 19);
+    padding: 10px;
+    min-width: 200px;
+    border: 1px solid blue;
+    border-radius: 30px;
+}
+.min-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    background-color: black;
+    justify-content: center;
+    text-align: end;
+    border: 1px solid white;
+    border-radius: 5px;;
+    border-radius: 30px;
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    overflow: hidden;
+}
+button{
+background-color: orange;
+    border: none;
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 5px;
+    color: white;
+}
+.row-pantallas{
+    margin: 5px;
+    padding: 5px;
+ 
+}
+.row-botones{
+    margin: 5px;
+    padding: 5px;
+ 
+}
